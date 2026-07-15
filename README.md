@@ -10,7 +10,7 @@ The dashboard enables users to explore churn trends across customer demographics
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Telco_Dashboard.png)
+![Dashboard](Telco_Dashboard.png.png)
 
 ---
 
